@@ -1,7 +1,7 @@
 /.vscode
+**/*.exe
+**/*.ilk
+**/*.obj
+**/*.pdb
+**/*.pdb
 /fortest.cpp
-/fortest.exe
-/fortest.ilk
-/fortest.obj
-/fortest.pdb
-/vc140.pdb
