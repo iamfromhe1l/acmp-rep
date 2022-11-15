@@ -3,5 +3,8 @@
 **/*.ilk
 **/*.obj
 **/*.pdb
-**/*.pdb
+.exe
+.ilk
+.obj
+.pdb
 /fortest.cpp
